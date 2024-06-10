@@ -1,0 +1,22 @@
+body{
+  background-color: aquamarine;
+  margin:0;
+  padding:0
+}
+
+li{
+  list-style-type: none;
+  margin:10px;
+}
+
+li a{
+  text-decoration: none;
+}
+
+label{
+  margin-right: 10px;
+}
+
+input{
+  margin-bottom: 10px;
+}
